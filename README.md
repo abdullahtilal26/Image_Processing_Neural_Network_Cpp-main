@@ -13,3 +13,4 @@ Multi Dimensional Array were implemented to store the data and to process.
 
 # Data-Set
 The mnist data set from Kaggle was used.
+ 
